@@ -20,8 +20,10 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <a href="https://chat.whatsapp.com/KA9zgz1gvN03LmwtQTJJZR"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
    <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
-
-<!--
+### FOR PLUGINS CLICK HERE 
+<br> 
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"> PLUGINLIST </a>
+<br 
 [![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
